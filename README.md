@@ -1,6 +1,6 @@
 # Robot-Line-Following (Hough Transform)
 
-Robot Line Follower with [ Hough transform](https://docs.opencv.org/3.0-beta/doc/py_tutorials/py_imgproc/py_houghlines/py_houghlines.html " Hough transform") and QR scanner using `C++` and `OpenCV` library.
+Robot Line Follower with [ Hough transform](https://docs.opencv.org/3.0-beta/doc/py_tutorials/py_imgproc/py_houghlines/py_houghlines.html " Hough transform") and QR Scanner using `C++` and `OpenCV` library.
 
 ### Problem definition
 There is a continues line with some intersections on the ground. In each intersection there is a QR code that shows the next direction. Robot is assinged to detect and track the line. In this case, the algorithm return the center position of the detected line to adjust itself to the center and be stable.
