@@ -47,5 +47,5 @@ git clone  https://github.com/kimiaf1998/Robot-Line-Following.git
 ### Screenshots
 
 
-https://user-images.githubusercontent.com/47594854/144767028-0c3d9871-8609-4937-92fe-77990ffa8fbe.mp4
+https://user-images.githubusercontent.com/47594854/144767114-3abc308e-41f3-4af5-b809-ff07cc1bbac4.mp4
 
