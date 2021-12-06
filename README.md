@@ -19,7 +19,7 @@ There is a continues line with some intersections on the ground. In each interse
 - Emitting signals containing the direction and position of the line found
 
 
-
+ 
 ### Requirements
 - C++ Programming Language (version >=11)
 - OpenCV (version 2.4.13 is preferred)
